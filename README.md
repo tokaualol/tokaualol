@@ -11,3 +11,5 @@ My name is Jaime / tokaua and I like to write code sometimes as a hobby, I also 
 
 ![tokaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokaualol&show_icons=true&theme=dracula)
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokaualol&theme=dracula&layout=compact&langs_count=10&hide=c,cplusplus,html)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=9z03hkwawjjd1k520hjfam109&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=ec688d)](https://spotify-github-profile.vercel.app/api/view?uid=9z03hkwawjjd1k520hjfam109&redirect=true)
