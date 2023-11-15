@@ -1,4 +1,5 @@
 <h2 align="center">Hey 👋</h2>
+
 ![Bocchi](https://github.com/tokaualol/tokaualol/assets/72284608/6ef72bb8-d991-4318-86b4-3f393f2b290a)
 
 My name is Jaime / tokaua and I like to write code sometimes as a hobby, I also own a [YouTube](https://youtube.com/@tokaua) channel and I like to create content on there aswell! I am currently 15 years old.
@@ -15,6 +16,7 @@ I'm a
 
 ### Github Statistics
 <p align="center">
+  
 ![tokaua's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokaualol&show_icons=true&theme=dracula) ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokaualol&theme=dracula&layout=compact&langs_count=10&hide=c,cplusplus,html)
 </p>
 
