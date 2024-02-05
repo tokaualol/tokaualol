@@ -27,7 +27,7 @@ I'm currently a
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=tokaua&theme=dracula"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=tokaualol&theme=dracula"/>
 </p>
 
 <h2 align="center">Now Playing</h2>
