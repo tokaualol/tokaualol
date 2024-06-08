@@ -35,3 +35,6 @@ I'm currently a
 <p align="center">
   <img height="50%" width="auto" src ="https://spotify-github-profile.vercel.app/api/view?uid=9z03hkwawjjd1k520hjfam109&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=ec688d&bar_color_cover=false">
 </p>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/tokaualol/tokaualol/main/1_d1SI60GhontqcBKL1HK1YA.png?raw=true');]{x0000}$}
