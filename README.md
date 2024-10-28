@@ -14,10 +14,10 @@ My name Is tokaua but you can call me Jaime!
 <a href="https://t.me/tokaualol"><img alt="Telegram" src="https://img.shields.io/badge/-@tokaualol-202b36?style=flat-square&logo=Telegram&logoColor=0088cc"></a>
 </p>
 
-I'm currently a
-* 📚 High School Student
+I'm currently
+* 📚 A High School Student
 * 📸 Content Creator
-* 💩 Poop Developer
+* 💻 Learning C++ & Java
 
 <h2 align="center">Statistics</h2>
 
