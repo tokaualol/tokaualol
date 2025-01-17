@@ -3,17 +3,16 @@
 ![Bocchi](https://github.com/tokaualol/tokaualol/assets/72284608/6ef72bb8-d991-4318-86b4-3f393f2b290a)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,html,css">
+<img src="https://skillicons.dev/icons?i=go,html,css,cpp">
 </p>
 
-I like to create or edit code sometimes as a hobby. My main focus is my [YouTube](https://youtube.com/@tokaua) channel. I don't create stuff too often but, I hope to make something useful that you use.
+I don't create stuff too often but I hope to make something useful that you use, im constantly on & off with a lot of my projects so things might be outdated. If you see anything that could be improved or just have any reccomendations, feeback would be appreciated.
 
-My name Is tokaua, but you can call me Jaime!     
-**I am currently 16 years old.**
+My current focus is my website: [tokaua.lol](https://tokaua.lol)
 
 <a href="https://youtube.com/@tokaua"><img alt="YouTube" src="https://img.shields.io/badge/-@tokaua-white?style=flat-square&logo=YouTube&logoColor=fe0002"></a>
 <a href="https://bsky.app/profile/tokaua.lol"><img alt="BlueSky" src="https://img.shields.io/badge/-@tokaua.lol-0085ff?style=flat-square&logo=BlueSky&logoColor=white"></a>
-<a href="https://discord.gg/734Rv6XguJ"><img alt="Discord" src="https://img.shields.io/badge/-tokaua-586aea?style=flat-square&logo=Discord&logoColor=white"></a>
+<a href="https://discord.com/users/347939231265718272"><img alt="Discord" src="https://img.shields.io/badge/-tokaua-586aea?style=flat-square&logo=Discord&logoColor=white"></a>
 <a href="https://t.me/tokaualol"><img alt="Telegram" src="https://img.shields.io/badge/-@tokaualol-202b36?style=flat-square&logo=Telegram&logoColor=0088cc"></a>
 
 <img href="https://discord.com/users/347939231265718272" src="https://discord.c99.nl/widget/theme-1/347939231265718272.png"></img>
