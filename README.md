@@ -3,7 +3,7 @@
 ![Bocchi](https://github.com/tokaualol/tokaualol/assets/72284608/6ef72bb8-d991-4318-86b4-3f393f2b290a)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,html,css,cpp">
+<img src="https://skillicons.dev/icons?i=js,go,html,css,cpp">
 </p>
 
 I don't create stuff too often but I hope to make something useful that you use, im constantly on & off with a lot of my projects so things might be outdated. If you see anything that could be improved or just have any reccomendations, feeback would be appreciated.
