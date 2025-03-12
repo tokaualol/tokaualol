@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋</h1>
 
-![Bocchi](https://github.com/tokaualol/tokaualol/assets/72284608/6ef72bb8-d991-4318-86b4-3f393f2b290a)
+![Aubrey](https://tokaua.lol/assets/images/aubrey.png)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,go,html,css,cpp">
