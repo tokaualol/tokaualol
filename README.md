@@ -3,7 +3,7 @@
 ![Aubrey](https://tokaua.lol/assets/images/aubrey.png)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,go,html,css,cpp">
+<img src="https://skillicons.dev/icons?i=cpp,go,html,css">
 </p>
 
 I don't create stuff too often but I hope to make something useful that you use, im constantly on & off with a lot of my projects so things might be outdated. If you see anything that could be improved or just have any reccomendations, feeback would be appreciated.
