@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋</h1>
 
-![Aubrey](https://tokaua.lol/assets/images/aubrey.png)
+![Aubrey](aubrey.png)
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,go,html,css">
